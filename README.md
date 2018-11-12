@@ -2,16 +2,16 @@
 
 by [Eddy Verbruggen](http://www.x-services.nl)
 
-1. [Description](https://github.com/EddyVerbruggen/Insomnia-PhoneGap-Plugin#1-description)
-2. [Installation](https://github.com/EddyVerbruggen/Insomnia-PhoneGap-Plugin#2-installation)
-	2. [Automatically (CLI / Plugman)](https://github.com/EddyVerbruggen/Insomnia-PhoneGap-Plugin#automatically-cli--plugman)
-	2. [Manually](https://github.com/EddyVerbruggen/Insomnia-PhoneGap-Plugin#manually)
-	2. [PhoneGap Build](https://github.com/EddyVerbruggen/Insomnia-PhoneGap-Plugin#phonegap-build)
-3. [Usage](https://github.com/EddyVerbruggen/Insomnia-PhoneGap-Plugin#3-usage)
-4. [Credits](https://github.com/EddyVerbruggen/Insomnia-PhoneGap-Plugin#4-credits)
-5. [License](https://github.com/EddyVerbruggen/Insomnia-PhoneGap-Plugin#5-license)
+1. [Description](https://github.com/innoxess/Insomnia-PhoneGap-Plugin#1-description)
+2. [Installation](https://github.com/innoxess/Insomnia-PhoneGap-Plugin#2-installation)
+	2. [Automatically (CLI / Plugman)](https://github.com/innoxess/Insomnia-PhoneGap-Plugin#automatically-cli--plugman)
+	2. [Manually](https://github.com/innoxess/Insomnia-PhoneGap-Plugin#manually)
+	2. [PhoneGap Build](https://github.com/innoxess/Insomnia-PhoneGap-Plugin#phonegap-build)
+3. [Usage](https://github.com/innoxess/Insomnia-PhoneGap-Plugin#3-usage)
+4. [Credits](https://github.com/innoxess/Insomnia-PhoneGap-Plugin#4-credits)
+5. [License](https://github.com/innoxess/Insomnia-PhoneGap-Plugin#5-license)
 
-This is for PhoneGap 3.x, [here is the 2.x version](https://github.com/EddyVerbruggen/Insomnia-PhoneGap-Plugin/tree/phonegap-2.x)
+This is for PhoneGap 3.x, [here is the 2.x version](https://github.com/innoxess/Insomnia-PhoneGap-Plugin/tree/phonegap-2.x)
 
 ## 1. Description
 
@@ -29,11 +29,11 @@ Prevent the screen of the mobile device from falling asleep.
 Insomnia is compatible with [Cordova Plugman](https://github.com/apache/cordova-plugman) and ready for the [PhoneGap 2.9.0 CLI](http://docs.phonegap.com/en/2.9.0/guide_cli_index.md.html#The%20Command-line%20Interface_add_features), here's how it works with the CLI:
 
 ```
-$ phonegap local plugin add https://github.com/EddyVerbruggen/Insomnia-PhoneGap-Plugin.git
+$ phonegap local plugin add https://github.com/innoxess/Insomnia-PhoneGap-Plugin.git
 ```
 or
 ```
-$ cordova plugin add https://github.com/EddyVerbruggen/Insomnia-PhoneGap-Plugin.git
+$ cordova plugin add https://github.com/innoxess/Insomnia-PhoneGap-Plugin.git
 ```
 run this command afterwards:
 ```
